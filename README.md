@@ -15,8 +15,9 @@
 
 ## Project Description :
 
-Explore the dynamic world of Uber pickups in the bustling streets of New York City with our project, "NYC Uber Insights."
-This data analysis endeavor aims to unravel the patterns, trends, and insights hidden within the New York Uber dataset. From data retrieval to preparation, and from hourly rush analysis to pinpointing locations of peak activity, our project delves into various aspects of Uber pickups to extract meaningful information.
+Explore the dynamic world of Uber pickups in the bustling streets of New York City with our project, "NYC Uber Insights."    
+This data analysis endeavor aims to unravel the patterns, trends, and insights hidden within the New York Uber dataset.    
+From data retrieval to preparation, and from hourly rush analysis to pinpointing locations of peak activity, our project delves into various aspects of Uber pickups to extract meaningful information.
 
 
 ## Tech Stack Used
@@ -28,50 +29,52 @@ This data analysis endeavor aims to unravel the patterns, trends, and insights h
  <img src="https://cdn.sanity.io/images/1xvnv7n3/production/5056f47776a6b5811d4e1cdf3dd6587dbe6e75b4-1917x596.png?w=1917&h=596&q=75&fit=max&auto=format" width="600" height="200">
 
 ## 🛠 Skills Demonstrated :
-Data Loading
 
-Exploratory Data Analysis (EDA)
+-  Data Loading
 
-Data Pre-processing and Cleaning
+-  Exploratory Data Analysis (EDA)
 
-Data Manipulation 
+-  Data Pre-processing and Cleaning
 
-Data Grouping and Aggregation
+-  Data Manipulation 
 
-Data Visualization
+-  Data Grouping and Aggregation
+
+-  Data Visualization
+  
 ##  Objectives :
 
 - Data Retrieval and Preliminary Analysis:
   
-Read and understand the Uber dataset for New York City.
+1. Read and understand the Uber dataset for New York City.
 
 - Data Pre-processing and Cleaning:
 
-Perform thorough data pre-processing and cleaning to ensure the accuracy and reliability of subsequent analyses.
+2. Perform thorough data pre-processing and cleaning to ensure the accuracy and reliability of subsequent analyses.
 
 - Monthly Pickup Peaks:
 
-Identify the month with the highest number of Uber pickups in New York City.
+3. Identify the month with the highest number of Uber pickups in New York City.
 
 - Hourly Rush Analysis:
 
-Analyze the hourly rush in New York City on all days, uncovering patterns and trends throughout the day.
+4. Analyze the hourly rush in New York City on all days, uncovering patterns and trends throughout the day.
 
 - Active Vehicle Analysis:
 
-Determine the base_number associated with the most significant number of active vehicles.
+5. Determine the base_number associated with the most significant number of active vehicles.
 
 - Comprehensive Data Collection:
 
-Collect and organize the entire dataset to facilitate in-depth data analysis.
+6. Collect and organize the entire dataset to facilitate in-depth data analysis.
 
 - Location-Based Rush Analysis:
 
-Investigate and visualize the locations in New York City where Uber pickups experience the highest demand.
+7. Investigate and visualize the locations in New York City where Uber pickups experience the highest demand.
 
 - Hourly and Weekly Patterns:
 
-Examine rush patterns on an hourly and weekday basis, performing pair-wise analysis to uncover correlations and insights.
+8. Examine rush patterns on an hourly and weekday basis, performing pair-wise analysis to uncover correlations and insights.
 
 
 
