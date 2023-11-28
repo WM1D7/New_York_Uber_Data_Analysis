@@ -1,7 +1,7 @@
 # New_York_Uber_Data_Analysis
 
 
-## New York City Uber Insights
+## " New York City Uber Insights "
 
 
 
@@ -15,7 +15,7 @@
 
 ## Project Description :
 
-Explore the dynamic world of Uber pickups in the bustling streets of New York City with our project, "NYC Uber Insights."    
+Explore the dynamic world of Uber pickups in the bustling streets of New York City with our project, **"NYC Uber Insights."**    
 This data analysis endeavor aims to unravel the patterns, trends, and insights hidden within the New York Uber dataset.    
 From data retrieval to preparation, and from hourly rush analysis to pinpointing locations of peak activity, our project delves into various aspects of Uber pickups to extract meaningful information.
 
