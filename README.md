@@ -8,7 +8,7 @@
 
 
 
-![](https://miro.medium.com/v2/resize:fit:747/1*YU7bBSY3j5CZqj6VqsqrAA.png)
+ <img src="https://miro.medium.com/v2/resize:fit:747/1*YU7bBSY3j5CZqj6VqsqrAA.png" width="400" height="200">
 
 
 
@@ -21,11 +21,11 @@ This data analysis endeavor aims to unravel the patterns, trends, and insights h
 
 ## Tech Stack Used
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*RzxZF0mmXAsMLrIzAWYDSg.png)
+ <img src="https://miro.medium.com/v2/resize:fit:1400/1*RzxZF0mmXAsMLrIzAWYDSg.png" width="250" height="150">
 
 ## Libraries Used
 
-![](https://cdn.sanity.io/images/1xvnv7n3/production/5056f47776a6b5811d4e1cdf3dd6587dbe6e75b4-1917x596.png?w=1917&h=596&q=75&fit=max&auto=format)
+ <img src="https://cdn.sanity.io/images/1xvnv7n3/production/5056f47776a6b5811d4e1cdf3dd6587dbe6e75b4-1917x596.png?w=1917&h=596&q=75&fit=max&auto=format" width="600" height="200">
 
 ## 🛠 Skills Demonstrated :
 Data Loading
