@@ -180,8 +180,13 @@ Group the data by location to identify areas with the highest demand.
 Visualize the results on a map for better insights.
 
 **Deliverables :**
+Zoom Out View 
 
 <img src="https://github.com/WM1D7/New_York_Uber_Data_Analysis/blob/main/Uber%20Images/Location%20Rush.png"  width="700" height="400">
+
+Zoom In View 
+
+<img src="https://github.com/WM1D7/New_York_Uber_Data_Analysis/blob/main/Uber%20Images/zoom%20in.png"  width="700" height="400">
 
 
 
