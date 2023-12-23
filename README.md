@@ -17,7 +17,7 @@
 
 Explore the dynamic world of Uber pickups in the bustling streets of New York City with our project, **"NYC Uber Insights."**     
 This data analysis endeavor aims to unravel the patterns, trends, and insights hidden within the New York Uber dataset.    
-From data retrieval to preparation, and from hourly rush analysis to pinpointing locations of peak activity, our project delves into various aspects of Uber pickups to extract meaningful information.
+From data retrieval to preparation, hourly rush analysis to pinpointing peak activity locations, our project delves into various aspects of Uber pickups to extract meaningful information.
 
 
 ## Tech Stack Used
@@ -44,7 +44,7 @@ From data retrieval to preparation, and from hourly rush analysis to pinpointing
 
 ## Dataset : 
 
--  [My kaggle Dataset](https://www.kaggle.com/datasets/wm1deep7/new-york-uber-dataset)
+-  [My Kaggle Dataset](https://www.kaggle.com/datasets/wm1deep7/new-york-uber-dataset)
  
   
 ##  Objectives :
@@ -63,11 +63,11 @@ From data retrieval to preparation, and from hourly rush analysis to pinpointing
 
 - Hourly Rush Analysis:
 
-4. Analyze the hourly rush in New York City on all days, uncovering patterns and trends throughout the day.
+4. Analyze the hourly rush in New York City every day, uncovering patterns and trends throughout the day.
 
 - Active Vehicle Analysis:
 
-5. Determine the base_number associated with the most significant number of active vehicles.
+5. Determine the base number associated with the most significant number of active vehicles.
 
 - Comprehensive Data Collection:
 
@@ -87,7 +87,7 @@ From data retrieval to preparation, and from hourly rush analysis to pinpointing
 
 **1. Data Retrieval and Preliminary Analysis:**
 
-Used jupyter notebook to conduct a preliminary analysis to understand the structure of the dataset, the types of variables present, and any initial patterns or anomalies.      
+Used jupyter notebook to conduct a preliminary analysis to understand the dataset's structure, the types of variables present, and any initial patterns or anomalies.      
 Python  programming languages and Python libraries  (packages such as OS ) to read and load the dataset.     
 
 
@@ -98,7 +98,7 @@ Python  programming languages and Python libraries  (packages such as OS ) to re
 Identify and handle missing or null values in the dataset.     
 Standardize data formats and units for consistency.    
 Remove duplicates and irrelevant columns.    
-Convert date column to a suitable format for time-based analysis.    
+Convert the date column to a suitable format for time-based analysis.    
 
 
 **3. Monthly Pickup Peaks:**
@@ -113,17 +113,17 @@ Identify the month with the maximum number of pickups.
 
 **Conclusion:** 
 
-Here we can see , June seems to have max Uber Pickups. 
+Here we can see, that June seems to have max Uber Pickups. 
 
-**Deliverables 2 :**
+**Deliverables 2:**
 
 <img src="https://github.com/WM1D7/New_York_Uber_Data_Analysis/blob/main/Uber%20Images/Weekdays.png"  width="1000" height="400">
 
 
 **Conclusion:**
 
-On Saturday & Friday, we are getting more Uber pickups in each month.        
-It seems that New Yorkers used to go for  shopping , Malls , fun activities alot on these days.       
+On Saturday & Friday, we are getting more Uber pickups each month.        
+It seems that New Yorkers used to go shopping, Malls, and fun activities a lot on these days.       
 
 
 **4. Hourly Rush Analysis:**
@@ -132,7 +132,7 @@ Extract the hour from the timestamp data.
 Aggregate the data on an hourly basis to determine pickup trends throughout the day.     
 Visualize the results using graphs or charts to highlight peak hours.      
 
-**Deliverables :**
+**Deliverables:**
 <img src="https://github.com/WM1D7/New_York_Uber_Data_Analysis/blob/main/Uber%20Images/Hour%20Rush.png"  width="1000" height="500">
 
 
@@ -140,10 +140,10 @@ Visualize the results using graphs or charts to highlight peak hours.
 
 It's interesting to see that Saturday and Sunday exhibit similar demand throughout the late night/morning/afternoon, 
 but it exhibits opposite trends during the evening.       
-In the evening, Saturday pickups continue to increase throughout the evening,but Sunday pickups takes a downward turn after evening.       
+In the evening, Saturday pickups continue to increase throughout the evening, but Sunday pickups take a downward turn after evening.       
 
-We can see that there the weekdays that has the most demand during the late evening is Friday and Saturday,        
-which is expected, but what strikes me is that Thursday nights also exhibits very similar trends as Friday and Saturday nights.        
+We can see that the weekdays that have the most demand during the late evening are Friday and Saturday,        
+which is expected, but what strikes me is that Thursday nights also exhibit very similar trends as Friday and Saturday nights.        
 
 It seems like New Yorkers are starting their 'weekends' on Thursday nights.       
 
@@ -151,8 +151,8 @@ It seems like New Yorkers are starting their 'weekends' on Thursday nights.
 **5. Active Vehicle Analysis:**
 
 Group the data by base_number.     
-Calculate the count of active vehicles associated with each base_number.     
-Identify the base_number with the highest count of active vehicles.     
+Calculate the count of active vehicles associated with each base number.     
+Identify the base number with the highest count of active vehicles.     
 
 **Deliverables1:**  Boxplot to see 5-summary stats of the data. (  minimum, first quartile, median, third quartile, and maximum )
 
@@ -160,7 +160,7 @@ Identify the base_number with the highest count of active vehicles.
 
 **Conclusion:**
 Here we can see each base number  with active vehicles range and compare it.    
-Base Number B02764 has most number of Active Vehicles.       
+Base Number B02764 has the most number of Active Vehicles.       
 
 **Deliverables 2:**  Violinplot to see  distribution and 5-summary stats of the data.     
 
@@ -170,19 +170,19 @@ Base Number B02764 has most number of Active Vehicles.
 
 Ensure that all relevant data is collected and organized for further analysis.    
 Save the cleaned and processed dataset for future reference.    
-remove unnecessary file.     
+remove unnecessary files.     
 
 
 **7. Location-Based Rush Analysis:**
 
 Utilize geospatial data to pinpoint pickup locations.  
-Lat : The latitude of the Uber pickup  
-Lon : The longitude of the Uber pickup   
+Lat: The latitude of the Uber pickup  
+Lon: The longitude of the Uber pickup   
 Group the data by location to identify areas with the highest demand.    
 Visualize the results on a map for better insights.
 using Folium Python library that helps you create several types of  maps.
 
-**Deliverables :**
+**Deliverables:**
 Zoom Out View 
 
 <img src="https://github.com/WM1D7/New_York_Uber_Data_Analysis/blob/main/Uber%20Images/Location%20Rush.png"  width="700" height="400">
@@ -198,13 +198,13 @@ By Zoom In / Out we can see which locations of New York City we are getting rush
 
 **8. Hourly and Weekly Patterns:**
 
-Further refine the dataset to include hourly and weekday information.     
+Further, refine the dataset to include hourly and weekday information.     
 Perform pair-wise analysis to explore relationships between hour, weekday, and pickup counts.    
 Visualize the patterns to gain a deeper understanding of hourly and weekly trends.     
 
-**Deliverables :**
+**Deliverables:**
 <img src="https://github.com/WM1D7/New_York_Uber_Data_Analysis/blob/main/Uber%20Images/rush%20on%20Hour%20and%20Weekday.png"  width="1000" height="700">
 
 **Conclusion:**
- Here we can easily Perform Pair wise Analysis and Examine  rush on Hour and Weekday by color gradient.
+ Here we can easily Perform Pair-wise Analysis and Examine  rush on Hour and Weekday by color gradient.
 
